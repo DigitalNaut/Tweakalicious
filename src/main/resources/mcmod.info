@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mymod",
+  "name": "Tweaklicious",
+  "description": "A collection of items we desperately need.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lithifus"],
+  "credits": "All the wonderful tutorials I found online!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [mod_MinecraftForge]
+}
+]
